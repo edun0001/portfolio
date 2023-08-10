@@ -1,0 +1,68 @@
+p{
+    color:blue;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: yellow;
+}
+
+/*Home section css*/
+p{
+    color: blue;
+    }
+    
+button{
+    color: blue;
+    text-align: center;
+    padding: 0%;
+    
+}
+
+dt{
+    color: blue;
+}
+
+dd{
+    color: blue;
+}
+            
+/* Services section css */
+
+.card-title {
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-body {
+background-color: yellow;
+
+}
+
+/* About section css*/
+.card-title {
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-body {
+background-color: yellow;
+
+} 
